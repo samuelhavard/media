@@ -14,8 +14,7 @@ american_history_x = media.Movie("American History X",
                                  "three years for the murder of two black guys who tried to steal his truck. When he "
                                  "returns from prison reformed, his younger brother Daniel Vinyard who idolizes him "
                                  "is on the brink of becoming a Neo Nazi himself.",
-                                 "https://en.wikipedia.org/wiki/American_History_X#/media/File:"
-                                 "American_History_X_Poster.jpg",
+                                 "https://upload.wikimedia.org/wikipedia/en/0/0a/American_history_x_poster.jpg",
                                  "https://www.youtube.com/watch?v=JsPW6Fj3BUI")
 school_of_rock = media.Movie("School of Rock",
                              "Storyline",
