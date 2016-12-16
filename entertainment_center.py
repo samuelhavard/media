@@ -32,5 +32,11 @@ hunger_games = media.Movie("Hunger Games",
                            "Storyline",
                            "http://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
                            "https://www.youtube.com/watch/v=PbA63a7H0bo")
-movies = [toy_story, avatar, american_history_x, school_of_rock, ratatoille, midnight_in_paris, hunger_games]
-fresh_tomatoes.open_movies_page(movies)
+#movies = [toy_story, avatar, american_history_x, school_of_rock, ratatoille, midnight_in_paris, hunger_games]
+#fresh_tomatoes.open_movies_page(movies)
+
+#print (media.Movie.VALID_RATINGS)
+#print (media.Movie.__doc__)
+
+print (media.Movie.__name__)
+print (media.Movie.__module__)
